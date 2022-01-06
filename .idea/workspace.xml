@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c497364-1a77-45ba-9270-57fd186eafbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23KPk8nj3RathPZHJVvWRpduoAq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.GildedRoseTest">
+    <configuration name="GildedRoseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GildedRose-Refactoring-Kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GildedRoseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GildedRoseTest.foo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GildedRose-Refactoring-Kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GildedRoseTest" />
+      <option name="METHOD_NAME" value="foo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GildedRoseTest.sellInDateDecreases_butQualityCannotBeNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GildedRose-Refactoring-Kata" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GildedRoseTest" />
+      <option name="METHOD_NAME" value="sellInDateDecreases_butQualityCannotBeNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GildedRoseTest" />
+        <item itemvalue="JUnit.GildedRoseTest.sellInDateDecreases_butQualityCannotBeNegative" />
+        <item itemvalue="JUnit.GildedRoseTest.foo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c497364-1a77-45ba-9270-57fd186eafbe" name="Default Changelist" comment="" />
+      <created>1641479945818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641479945818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Project_Structure" timestamp="1641479962765">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1641479962765" />
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1641485119152">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1641485119152" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1641489975773">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1641489975773" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1641489975772">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1641489975772" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1641489975771">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1641489975771" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1641489975773">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1641489975773" />
+    <state x="349" y="154" key="NewModule_or_Project.wizard" timestamp="1641485963731">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="349" y="154" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1641485963731" />
+    <state x="517" y="376" key="ReplaceDuplicatesPrompt" timestamp="1641487829227">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="517" y="376" key="ReplaceDuplicatesPrompt/0.0.1440.900@0.0.1440.900" timestamp="1641487829227" />
+    <state x="458" y="211" width="524" height="482" key="extract.method.dialog" timestamp="1641489951408">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="211" width="524" height="482" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1641489951408" />
+    <state x="482" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1641484800149">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="76" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1641484800149" />
+  </component>
+</project>
