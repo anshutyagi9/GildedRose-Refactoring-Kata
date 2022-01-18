@@ -1,3 +1,5 @@
+package com.gildedrose.domain;
+
 public class Item {
     public String name;
 
